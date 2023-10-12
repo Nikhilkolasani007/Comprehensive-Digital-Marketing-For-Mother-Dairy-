@@ -3,10 +3,10 @@ This repository dives deep into a holistic digital marketing strategy designed e
 Faculty Guide
 K . JAGAN MOHAN
 Team Members
-NIKHIL KOLASANI
-VINNAKOTA HARIKA
-YERUVA SAIBALA DHARNESWAR
-KOLLU SOWMYA VANI
+NIKHIL KOLASANI,
+VINNAKOTA HARIKA,
+YERUVA SAIBALA DHARNESWAR,
+KOLLU SOWMYA VANI.
 PPT Google Slides Link: https://docs.google.com/presentation/d/1TrEbUYkV01CFnjjjG23idorFU0NamqP2pXU0HyV_fuI/edit?usp=sharing
 PowerPoint Screen Shots
 ![NIKHIL KOLASANI-1](https://github.com/Nikhilkolasani007/Comprehensive-Digital-Marketing-For-Mother-Dairy-/assets/141309899/0f7d5651-dff2-4e4e-b087-0ab702b839dd)
